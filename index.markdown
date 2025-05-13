@@ -83,7 +83,7 @@ In 2018, the number of closures hit a record high, with 15% of businesses shutti
 The interactive map represents the number of closures in each of San Francisco's districts from 2013 to 2022. The darker the color, the higher the number of closures. One might falsely assume that businesses should thrive closer to the city center, but the map visualizes the opposite. The southern, central, and northern districts were among the three most affected. The visible markers represent fifty known brands that closed down during this period, which are only a small portion of the larger numbers. By hovering over a marker, viewers can see the brand name and the year it closed. This helps visualize that even well-known brands, with greater financial resources and top locations, chose to close their doors.
 
 <figure>
-    <iframe src="{{ site.baseurl }}/assets/intermaptest.html" width="50%" height="700px"></iframe>
+    <iframe src="{{ site.baseurl }}/assets/mapBusi.html" width="50%" height="700px"></iframe>
     <figcaption>Interactive Map of closed businesses in San Francisco by district from 2018 to 2024.</figcaption>
 </figure>
 ---
